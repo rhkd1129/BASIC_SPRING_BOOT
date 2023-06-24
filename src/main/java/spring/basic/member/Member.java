@@ -8,5 +8,5 @@ public class Member {
     private int iu;
 
     private String sex;
-
+    private String nickName;
 }
