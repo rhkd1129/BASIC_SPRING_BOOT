@@ -7,6 +7,6 @@ public class Member {
     private int age;
     private int iu;
 
-    private String nikname;
+    private String sex;
 
 }
