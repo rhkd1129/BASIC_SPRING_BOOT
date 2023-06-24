@@ -9,6 +9,7 @@ public class BasicApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BasicApplication.class, args);
 		//git push 를 위한 변경점 만들기 _ jangsik
+		//member 추가 확인 (kkh)
 	}
 
 }
